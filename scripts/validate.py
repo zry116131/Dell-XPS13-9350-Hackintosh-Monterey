@@ -7,8 +7,9 @@ from pathlib import Path
 
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--require-identity', action='store_true')
+parser.add_argument('--root', type=Path, help='Package root containing EFI (default: repository root)')
 args = parser.parse_args()
-root = Path(__file__).resolve().parent.parent
+root = args.root.resolve() if args.root else Path(__file__).resolve().parent.parent
 oc = root / 'EFI/OC'
 c = plistlib.loads((oc / 'config.plist').read_bytes())
 errors = []

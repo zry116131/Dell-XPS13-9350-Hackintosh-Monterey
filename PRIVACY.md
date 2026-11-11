@@ -10,3 +10,5 @@
 - 上游二进制可能带有其作者的编译路径或版权姓名，不能将其视为本机用户数据。
 
 使用者填写私人身份后，请勿将修改后的 config.plist 公开提交。
+
+Sequoia 发布另移除了本机 `bluetoothInternalControllerInfo`、`bluetoothExternalDongleFailed` NVRAM 缓存及 EFI 内历史配置备份；不对第三方二进制做内容重写。

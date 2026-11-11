@@ -1,0 +1,182 @@
+[
+  {
+    "path": "EFI/OC/Kexts/AMFIPass.kext/Contents/Info.plist",
+    "identifier": "com.dhinakg.AMFIPass",
+    "version": "1.4.1"
+  },
+  {
+    "path": "EFI/OC/Kexts/AirportBrcmFixup.kext/Contents/Info.plist",
+    "identifier": "as.lvs1974.AirportBrcmFixup",
+    "version": "2.1.9"
+  },
+  {
+    "path": "EFI/OC/Kexts/AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcm4360_Injector.kext/Contents/Info.plist",
+    "identifier": "as.lvs1974.AirportBrcm4360Injector",
+    "version": "1.0"
+  },
+  {
+    "path": "EFI/OC/Kexts/AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcmNIC_Injector.kext/Contents/Info.plist",
+    "identifier": "as.lvs1974.AirportBrcmNICInjector",
+    "version": "1.0"
+  },
+  {
+    "path": "EFI/OC/Kexts/AppleALC.kext/Contents/Info.plist",
+    "identifier": "as.vit9696.AppleALC",
+    "version": "1.9.9"
+  },
+  {
+    "path": "EFI/OC/Kexts/BlueToolFixup.kext/Contents/Info.plist",
+    "identifier": "as.acidanthera.BlueToolFixup",
+    "version": "2.7.1"
+  },
+  {
+    "path": "EFI/OC/Kexts/BrcmFirmwareData.kext/Contents/Info.plist",
+    "identifier": "as.acidanthera.BrcmFirmwareStore",
+    "version": "2.7.1"
+  },
+  {
+    "path": "EFI/OC/Kexts/BrcmPatchRAM3.kext/Contents/Info.plist",
+    "identifier": "as.acidanthera.BrcmPatchRAM3",
+    "version": "2.7.1"
+  },
+  {
+    "path": "EFI/OC/Kexts/BrightnessKeys.kext/Contents/Info.plist",
+    "identifier": "as.acidanthera.BrightnessKeys",
+    "version": "1.0.4"
+  },
+  {
+    "path": "EFI/OC/Kexts/ECM-Override.kext/Contents/Info.plist",
+    "identifier": "com.dortania.ECM-Override",
+    "version": "9.9.9"
+  },
+  {
+    "path": "EFI/OC/Kexts/IO80211FamilyLegacy.kext/Contents/Info.plist",
+    "identifier": "com.apple.iokit.IO80211FamilyLegacy",
+    "version": "12.0"
+  },
+  {
+    "path": "EFI/OC/Kexts/IO80211FamilyLegacy.kext/Contents/PlugIns/AirPortBrcmNIC.kext/Contents/Info.plist",
+    "identifier": "com.apple.driver.AirPort.BrcmNIC",
+    "version": "14.0"
+  },
+  {
+    "path": "EFI/OC/Kexts/IOSkywalkFamily.kext/Contents/Info.plist",
+    "identifier": "com.apple.iokit.IOSkywalkFamily",
+    "version": "1.0"
+  },
+  {
+    "path": "EFI/OC/Kexts/Lilu.kext/Contents/Info.plist",
+    "identifier": "as.vit9696.Lilu",
+    "version": "1.7.2"
+  },
+  {
+    "path": "EFI/OC/Kexts/NVMeFix.kext/Contents/Info.plist",
+    "identifier": "org.acidanthera.NVMeFix",
+    "version": "1.1.4"
+  },
+  {
+    "path": "EFI/OC/Kexts/RestrictEvents.kext/Contents/Info.plist",
+    "identifier": "as.vit9696.RestrictEvents",
+    "version": "1.1.6"
+  },
+  {
+    "path": "EFI/OC/Kexts/SMCBatteryManager.kext/Contents/Info.plist",
+    "identifier": "ru.usrsse2.SMCBatteryManager",
+    "version": "1.3.9"
+  },
+  {
+    "path": "EFI/OC/Kexts/SMCDellSensors.kext/Contents/Info.plist",
+    "identifier": "as.lvs1974.SMCDellSensors",
+    "version": "1.3.9"
+  },
+  {
+    "path": "EFI/OC/Kexts/SMCLightSensor.kext/Contents/Info.plist",
+    "identifier": "ru.usrsse2.SMCLightSensor",
+    "version": "1.3.9"
+  },
+  {
+    "path": "EFI/OC/Kexts/SMCProcessor.kext/Contents/Info.plist",
+    "identifier": "as.vit9696.SMCProcessor",
+    "version": "1.3.9"
+  },
+  {
+    "path": "EFI/OC/Kexts/SMCSuperIO.kext/Contents/Info.plist",
+    "identifier": "ru.joedm.SMCSuperIO",
+    "version": "1.3.9"
+  },
+  {
+    "path": "EFI/OC/Kexts/Sinetek-rtsx.kext/Contents/Info.plist",
+    "identifier": "com.sinet3k.Sinetek-rtsx",
+    "version": "9.0.0"
+  },
+  {
+    "path": "EFI/OC/Kexts/USBToolBox.kext/Contents/Info.plist",
+    "identifier": "com.dhinakg.USBToolBox.kext",
+    "version": "1.2.0"
+  },
+  {
+    "path": "EFI/OC/Kexts/UTBMap.kext/Contents/Info.plist",
+    "identifier": "com.dhinakg.USBToolBox.map",
+    "version": "1.1"
+  },
+  {
+    "path": "EFI/OC/Kexts/VirtualSMC.kext/Contents/Info.plist",
+    "identifier": "as.vit9696.VirtualSMC",
+    "version": "1.3.9"
+  },
+  {
+    "path": "EFI/OC/Kexts/VoodooI2C.kext/Contents/Info.plist",
+    "identifier": "com.alexandred.VoodooI2C",
+    "version": "2.9.1"
+  },
+  {
+    "path": "EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext/Contents/Info.plist",
+    "identifier": "org.coolstar.VoodooGPIO",
+    "version": "1.1"
+  },
+  {
+    "path": "EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooI2CServices.kext/Contents/Info.plist",
+    "identifier": "com.alexandred.VoodooI2CServices",
+    "version": "1.0"
+  },
+  {
+    "path": "EFI/OC/Kexts/VoodooI2C.kext/Contents/PlugIns/VoodooInput.kext/Contents/Info.plist",
+    "identifier": "me.kishorprins.VoodooInput",
+    "version": "1.1.7"
+  },
+  {
+    "path": "EFI/OC/Kexts/VoodooI2CHID.kext/Contents/Info.plist",
+    "identifier": "com.alexandred.VoodooI2CHID",
+    "version": "1.0"
+  },
+  {
+    "path": "EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/Info.plist",
+    "identifier": "as.acidanthera.voodoo.driver.PS2Controller",
+    "version": "2.3.8"
+  },
+  {
+    "path": "EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext/Contents/Info.plist",
+    "identifier": "me.kishorprins.VoodooInput",
+    "version": "1.1.7"
+  },
+  {
+    "path": "EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/Info.plist",
+    "identifier": "as.acidanthera.voodoo.driver.PS2Keyboard",
+    "version": "2.3.8"
+  },
+  {
+    "path": "EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/Info.plist",
+    "identifier": "as.acidanthera.voodoo.driver.PS2Mouse",
+    "version": "2.3.8"
+  },
+  {
+    "path": "EFI/OC/Kexts/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/Info.plist",
+    "identifier": "as.acidanthera.voodoo.driver.PS2Trackpad",
+    "version": "2.3.8"
+  },
+  {
+    "path": "EFI/OC/Kexts/WhateverGreen.kext/Contents/Info.plist",
+    "identifier": "as.vit9696.WhateverGreen",
+    "version": "1.7.2"
+  }
+]

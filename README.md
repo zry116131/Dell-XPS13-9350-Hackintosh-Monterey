@@ -1,4 +1,17 @@
-# Dell XPS 13 9350 · macOS Monterey
+# Dell XPS 13 9350 · Monterey / Sequoia
+
+## 最新进度 · 2026-11-11
+
+当前实机已升级到 **macOS Sequoia 15.8.2（24H232）**，OpenCore **1.0.9**。DW1820A 无线联网、连续两次 U 盘软重启，以及拔掉 U 盘后的硬盘独立软重启已验证。新版脱敏引导位于 **[Sequoia/](Sequoia/README.md)**，详细边界见 [进度记录](docs/PROGRESS-2026-11-11.md)。
+
+**两个系统的配置不可混用：** 根目录 `EFI/` 保留 Monterey 12.7.6 基线（MacBookPro13,1）；`Sequoia/EFI/` 是 15.8.2 实机配置（MacBookPro15,2），需要配套 OCLP 2.4.1 系统卷补丁。仅替换 EFI 不会安装这些补丁。
+
+Sequoia 当前已知限制：无线图标偶尔空格但联网仍正常；开机后后台负载偏高；冷启动、睡眠唤醒及全部外设尚未完整回归。发布版经过脱敏与静态校验，不能把原机验证视为所有机器都能正常使用。
+
+---
+
+## Monterey 原始基线
+
 
 面向 **i5-6200U / HD 520 / 3200×1800 触摸屏 / DW1820A** 的 OpenCore 配置及排障记录。测试系统为 macOS **12.7.6 (21H1320)**，OpenCore **1.0.9**。
 
